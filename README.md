@@ -34,9 +34,12 @@
 📕 Always learning new things<br>
 📧 This is my email: **crisarandosyse@gmail.com**<br>
 
-# 💻 My Tech Stack
+<!-- # 💻 My Tech Stack -->
 <!--   Some badges are from https://github.com/Ileriayo/markdown-badges -->
 <!--   <details><summary></summary></details> for content expand option >-->
+ 
+<details> 
+  <summary><h2>💻 My Tech Stack</h2></summary>
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
   <p>
@@ -101,13 +104,15 @@
       <img alt="Selenium" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">
   </p>
 
+</details>
 <!-- This is alternative!!!!! -->
 <!-- # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=iamcristian&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iamcristian&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamcristian&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
     
-# 📊 GitHub Stats:
+<details> 
+  <summary><h2>📊 GitHub Stats</h2></summary>
 <p align=center>
   <div align=center>
 <!--     source is https://github.com/denvercoder1/github-readme-streak-stats -->
@@ -123,7 +128,7 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=iamcristian&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
-<hr>
+</details>
 
 ## 🏆 GitHub Trophies
 <div align=center>
