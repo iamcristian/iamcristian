@@ -13,10 +13,10 @@
 
 <!-- linkedin and portfolio -->
 <p align="center">
-  <a href="https://www.mipagina.com">
+  <a href="#">
     <img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge"
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com">
+  <a href="#">
     <img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
   </a>
 </p>
@@ -64,9 +64,6 @@
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
     <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
-    <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
-    <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
-    <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
   </p>
 
   <h3>🗄️ Databases and Hosting</h3>
@@ -78,7 +75,6 @@
     <img src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)">
     <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
-    <img src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white">
   </p>
 
   <h3>💻 Software and Tools</h3>
@@ -116,13 +112,13 @@
 <p align=center>
   <div align=center>
 <!--     source is https://github.com/denvercoder1/github-readme-streak-stats -->
-    <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=iamcristian&theme=react&border=61dafb&hide_border=true" alt="iamcristian" />
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=iamcristian&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img align="left" width=35% src="https://github-readme-streak-stats.herokuapp.com/?user=iamcristian&theme=react&border=61dafb&hide_border=true" alt="iamcristian" />
+      <img align="right" width=35% src="https://github-readme-stats.vercel.app/api?username=iamcristian&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
 <!--     source is https://github.com/anuraghazra/github-readme-stats -->
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamcristian&hide=c%23,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamcristian&hide=c%23,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </div>
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=iamcristian&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
