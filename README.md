@@ -112,13 +112,13 @@
 <p align=center>
   <div align=center>
 <!--     source is https://github.com/denvercoder1/github-readme-streak-stats -->
-    <img align="left" width=35% src="https://github-readme-streak-stats.herokuapp.com/?user=iamcristian&theme=react&border=61dafb&hide_border=true" alt="iamcristian" />
-      <img align="right" width=35% src="https://github-readme-stats.vercel.app/api?username=iamcristian&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img align="left" width=45% src="https://github-readme-streak-stats.herokuapp.com/?user=iamcristian&theme=react&border=61dafb&hide_border=true" alt="iamcristian" />
+      <img align="right" width=45% src="https://github-readme-stats.vercel.app/api?username=iamcristian&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
 <!--     source is https://github.com/anuraghazra/github-readme-stats -->
-  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamcristian&hide=c%23,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  <img width=60% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamcristian&hide=c%23,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </div>
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=iamcristian&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
