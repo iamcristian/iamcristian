@@ -5,8 +5,7 @@
   </a>
 </p>
 
-<!-- typing svg -->
-<!-- page for effect -> https://git.io/typing-svg -->
+<!-- typing svg page for effect -> https://git.io/typing-svg -->
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=840&height=40&lines=Howdy!+Welcome+👋;This is my README on github;Nice+to+meet+you!"      alt="Typing SVG" />
 </p>
@@ -20,14 +19,14 @@
     <img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
   </a>
 </p>
-    
+
 ---
 <!-- [![](https://visitcount.itsvg.in/api?id=iamcristian&icon=0&color=0)](https://visitcount.itsvg.in) -->
 <p align="right">
     <img src="https://visitcount.itsvg.in/api?id=iamcristian&icon=0&color=0">
-    </p>
+</p>
   
-# 💫 About Me:
+<h2>💫 About Me:</h2>
 🔭 I’m currently studying for a degree in Systems Engineering<br>
 💻 I’m a **Tech Enthusiast** passionate about learning and working with new tech<br>
 ⚡ I also like literature, reading and thinking<br>
@@ -40,8 +39,8 @@
  
 <details> 
   <summary><h2>💻 My Tech Stack</h2></summary>
+  
   <h3>👨‍💻 Programming and Markup Languages</h3>
-
   <p>
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -89,8 +88,7 @@
     <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge">
     <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
     <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
-    <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
-    
+    <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">   
   </p>
     
  <h3>🧪 Testing</h3>
@@ -109,24 +107,22 @@
     
 <details> 
   <summary><h2>📊 GitHub Stats</h2></summary>
-<p align=center>
-  <div align=center>
-<!--     source is https://github.com/denvercoder1/github-readme-streak-stats -->
-    <img align="left" width=45% src="https://github-readme-streak-stats.herokuapp.com/?user=iamcristian&theme=react&border=61dafb&hide_border=true" alt="iamcristian" />
-      <img align="right" width=45% src="https://github-readme-stats.vercel.app/api?username=iamcristian&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  <div align="center" width=100%>
+<!-- source is https://github.com/denvercoder1/github-readme-streak-stats -->
+  <img align="left" width=45% src="https://github-readme-streak-stats.herokuapp.com/?user=iamcristian&theme=react&border=61dafb&hide_border=true" alt="iamcristian"/>
+  <img align="right" width=45% src="https://github-readme-stats.vercel.app/api?username=iamcristian&show_icons=true&theme=react&border_color=61dafb&hide_border=true"/>
   </div>
-  <div align=center>
-<!--     source is https://github.com/anuraghazra/github-readme-stats -->
-  <img width=60% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamcristian&hide=c%23,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  <div align="center">
+<!-- source is https://github.com/anuraghazra/github-readme-stats -->
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamcristian&hide=c%23,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"/>
   </div>
-  <br>
+  
   <img src="https://activity-graph.herokuapp.com/graph?username=iamcristian&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
 
 </details>
 
 ## 🏆 GitHub Trophies
-<div align=center>
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=iamcristian&theme=radical&no-frame=false&no-bg=false&margin-w=4">
 </div>
   
