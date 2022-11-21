@@ -27,12 +27,12 @@
 </p>
   
 <h2>💫 About Me:</h2>
+    
 🔭 I’m currently studying for a degree in Systems Engineering<br>
 💻 I’m a **Tech Enthusiast** passionate about learning and working with new tech<br>
 ⚡ I also like literature, reading and thinking<br>
 📕 Always learning new things<br>
-📧 This is my email: **crisarandosyse@gmail.com**<br>
-
+📧 This is my email: **crisarandosyse@gmail.com** <br>
 <!-- # 💻 My Tech Stack -->
 <!--   Some badges are from https://github.com/Ileriayo/markdown-badges -->
 <!--   <details><summary></summary></details> for content expand option >-->
