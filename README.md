@@ -24,8 +24,8 @@
 ---
 <!-- link for create visit count -> https://visitcount.itsvg.in -->
 <p align="right">
-<!--    <img title="Visit Count" src="https://visitcount.itsvg.in/api?id=iamcristian&label=Profile%20Views%20Count&color=0&icon=2&pretty=true"> -->
-  <img title="Visit Count" src="https://komarev.com/ghpvc/?username=iamcristian&color=blue&label=Profile+Views+Count:&style=flat">
+   <img title="Visit Count" src="https://visitcount.itsvg.in/api?id=iamcristian&label=Profile%20Views%20Count&color=0&icon=2&pretty=true">
+<!--   <img title="Visit Count" src="https://komarev.com/ghpvc/?username=iamcristian&color=blue&label=Profile+Views+Count:&style=flat"> -->
 </p>
   
 <h2>💫 About Me:</h2>
