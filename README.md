@@ -106,13 +106,14 @@
   <img title="Current" width=45% src="https://github-readme-streak-stats.herokuapp.com/?user=iamcristian&theme=react&border=61dafb&hide_border=true" alt="iamcristian"/>
    </a>
   <a href="#">
-  <img title="Stats" width=45% src="https://github-readme-stats.vercel.app/api?username=iamcristian&show_icons=true&theme=react&border_color=61dafb&hide_border=true"/>
+  <!-- source https://github.com/anuraghazra/github-readme-stats -->
+  <img title="Stats" width=45% src="https://github-readme-stats.vercel.app/api?username=iamcristian&show_icons=true&theme=react&hide_border=true"/>
   </a>  
   </p>
   
   <!-- source is https://github.com/anuraghazra/github-readme-stats -->
   <p align="center">
-  <img title="Most Used Languages" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamcristian&hide=less&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"/>
+  <img title="Most Used Languages" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamcristian&hide=less&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&hide_border=true"/>
   </p>
   
   <!-- source is https://github.com/Ashutosh00710/github-readme-activity-graph -->
