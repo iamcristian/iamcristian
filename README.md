@@ -115,7 +115,8 @@
   <img title="Most Used Languages" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamcristian&hide=less&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"/>
   </p>
   
-  <img title="Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=iamcristian&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <!-- source is https://github.com/Ashutosh00710/github-readme-activity-graph -->
+  <img title="Contribution Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=iamcristian&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 </details>
 
