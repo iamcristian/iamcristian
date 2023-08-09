@@ -117,7 +117,7 @@
   </p>
   
   <!-- source is https://github.com/Ashutosh00710/github-readme-activity-graph -->
-  <img title="Contribution Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=iamcristian&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img title="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 </details>
 
