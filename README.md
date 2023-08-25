@@ -13,7 +13,7 @@
 
 <!-- linkedin and portfolio -->
 <p align="center">
-  <a href="#">
+  <a href="https://cristianarando.netlify.app/">
     <img title="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge"
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/iamcristian/">
