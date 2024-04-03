@@ -1,7 +1,7 @@
 <!-- name -->
 <p align="center">
   <a href="https://github.com/iamcristian">
-    <img title="Cristian Arando" src="https://user-images.githubusercontent.com/79182162/202782368-9c9c2fec-364a-4e8d-92be-4a182417b585.png"  />
+    <img title="Cristian Arando" src="https://user-images.githubusercontent.com/79182162/202782368-9c9c2fec-364a-4e8d-92be-4a182417b585.png" alt="Cristian Arando"/>
   </a>
 </p>
 
@@ -13,7 +13,7 @@
 
 <!-- linkedin and portfolio -->
 <p align="center">
-  <a href="https://cristianarando.netlify.app/">
+  <a href="https://cristianarando.tech/">
     <img title="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge"
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/cristian-arando/">
