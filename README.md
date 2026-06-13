@@ -29,8 +29,7 @@ block-beta
     l2["JavaScript"]
     l3["Python"]
     l4["Java"]
-    l5["SQL"]
-    l6["Bash"]
+    space
   end
 
   block:FE:1
@@ -40,8 +39,7 @@ block-beta
     f2["Next.js"]
     f3["Astro"]
     f4["Tailwind"]
-    f5["Redux"]
-    space
+    f5["Angular"]
   end
 
   block:BE:1
@@ -50,8 +48,7 @@ block-beta
     b1["Node.js"]
     b2["NestJS"]
     b3["Express"]
-    space
-    space
+    B4["Django"]
     space
   end
 
@@ -63,7 +60,6 @@ block-beta
     d3["MySQL"]
     d4["Redis"]
     space
-    space
   end
 
   block:DO:1
@@ -74,7 +70,6 @@ block-beta
     o3["Linux"]
     o4["CI/CD"]
     o5["GH Actions"]
-    space
   end
 
   block:SEC:1
@@ -85,7 +80,6 @@ block-beta
     s3["Pen Testing"]
     s4["Net Sec"]
     space
-    space
   end
 
   block:AI:1
@@ -95,7 +89,6 @@ block-beta
     a2["Prompt Eng"]
     a3["Agentic"]
     a4["Skills"]
-    space
     space
   end
 
@@ -128,7 +121,7 @@ block-beta
 
 #### On My Nightstand
 
-> *"I swear to you, gentlemen, that to think too much is a disease, a real, actual disease."*
+> *"I swear to you that to think too much is a disease, a real, actual disease."*
 > — Fyodor Dostoevsky, *Notes from Underground*
 
 I caught the disease. Here's what's keeping me up at night:
