@@ -1,6 +1,6 @@
 # Hi, I'm Cristian 👋
 
-<sup>Software & Systems Engineer · Cochabamba, Bolivia</sup>
+<sup>Software & Systems Engineer</sup>
 
 I design software systems through structure, modularity, and careful decomposition of complexity.
 I also read philosophy, write about what I learn, and occasionally break into systems — legally... 🤫
